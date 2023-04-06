@@ -32,10 +32,10 @@ My github [link](https://github.com/cypscl/CSE110/)
 * John Adams
 + Thomas Jefferson
 
-1. Page done with Markdown
-2. Get 100k/y
+1. George Washington
+2. John Adams
 3. Yes
 
-- [x] #1
-- [] #2
-- [] Add delight to the experience when all tasks are complet :tada:
+- [x] Page using MarkDown
+- [ ] Get paid 100k/y
+- [ ] Add delight to the experience when all tasks are complet :tada:
