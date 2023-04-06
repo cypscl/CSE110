@@ -1,8 +1,12 @@
 #Pascal's User Page
 
+# Here a text
 ## Here a text
+### Here a text
 
-** Stylish text ** 
+
+**Stylish text**
+
 
 Text that is not a quote
 
@@ -13,11 +17,10 @@ Text that is not a quote
 Some quoted code :
 
 ```
-
 print("Hello World !")
 printf("Hello World !\n")
 System.println.out("Hello World !")
-
+```
 
 My github [link](https://github.com/cypscl/CSE110/)
 
